@@ -243,11 +243,3 @@ MIN_STOCK       DW 5  ; Change to desired threshold
 ## Author Notes
 
 This project demonstrates fundamental assembly language programming concepts including memory management, I/O operations, and algorithmic implementation at the hardware level. The system provides practical experience with low-level programming while solving a real-world business problem.
-
-## License
-
-Academic project for educational purposes - Course 341, Fall 2025
-
----
-
-_For questions or issues, please consult course materials or contact the instructor._
